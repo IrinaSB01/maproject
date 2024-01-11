@@ -1,0 +1,18 @@
+header img{
+    width: 100%;
+}
+main{
+    width: 80%;
+    margin: auto;
+}
+.photoline{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+}
+.photo{
+    width: 32%;
+}
